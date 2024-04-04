@@ -1,4 +1,4 @@
-# Multiple server with infinite capacity - (M/M/c):(oo/FIFO)
+# Ex-5 Multiple server with infinite capacity - (M/M/c):(oo/FIFO)
 ### Developed by: H. AARON
 ### Register Number: 212223040001
 ## Aim :
